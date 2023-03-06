@@ -1,4 +1,4 @@
-### Pandas Assignment
+Pandas Assignment
 
 1. Import pandas and any other necessary libraries
 2. Read 'BigMartSalesData.csv' as a dataframe called sales
